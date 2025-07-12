@@ -43,3 +43,12 @@ node server/server.js
 
 npm start
 
+### 🛠️ Common Issue with Node v17+ and above
+
+If you get an error like:
+`error:0308010C:digital envelope routines::unsupported`
+
+Use this fix:
+```bash
+NODE_OPTIONS=--openssl-legacy-provider npm start
+
