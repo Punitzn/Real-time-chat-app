@@ -33,8 +33,10 @@ cd Real-time-chat-app
 
 Install for both frontend and backend:
 npm install
+
 3. Start the Server (Backend)
 node server/server.js
+
 4. Start the React App (Frontend)
 npm start
 
