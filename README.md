@@ -38,14 +38,3 @@ node server/server.js
 4. Start the React App (Frontend)
 npm start
 
-📁 Folder Structure
-Chat-React-SocketIO/
-├── public/
-├── src/
-│   ├── components/
-│   └── App.js
-├── server/
-│   └── server.js
-├── package.json
-└── README.md
-
